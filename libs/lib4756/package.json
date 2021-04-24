@@ -1,0 +1,7 @@
+{
+  "name": "lib4756",
+  "version": "0.1.0",
+  "private": true,
+  "main": "startup.ts",
+  "types": "dist"
+}

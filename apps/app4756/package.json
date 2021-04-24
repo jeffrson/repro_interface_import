@@ -1,0 +1,9 @@
+{
+  "name": "app4756",
+  "version": "0.1.0",
+  "private": true,
+  "main": "startup.ts",
+  "dependencies": {
+    "lib4756": "^0.1.0"
+  }
+}
